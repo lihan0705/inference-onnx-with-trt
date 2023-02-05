@@ -1,0 +1,3 @@
+/home/liangdao_hanli/Desktop/task/transformer/cuda_mnist/builds/CMakeFiles/mnsitClassification.dir
+/home/liangdao_hanli/Desktop/task/transformer/cuda_mnist/builds/CMakeFiles/edit_cache.dir
+/home/liangdao_hanli/Desktop/task/transformer/cuda_mnist/builds/CMakeFiles/rebuild_cache.dir
